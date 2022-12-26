@@ -79,6 +79,7 @@ body {
 
 /* day section */
 .day-section {
+  width: 100%;
   display: grid;
   grid-template-columns: repeat(auto-fit, 75px);
   gap: 0.5rem;
